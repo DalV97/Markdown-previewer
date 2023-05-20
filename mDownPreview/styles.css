@@ -1,0 +1,23 @@
+body {
+    background-color: #F0F2F5; /* Light gray */
+  }
+  
+  .textarea {
+    height: 200px;
+    width: 50%;
+  }
+  
+  #preview {
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid black;
+    height: 40vh; 
+    overflow-y: auto;
+    width: 80%;
+    position: fixed;
+    bottom: 10%; 
+    left: 10%; 
+    right: 10%; 
+ }
+  
+  
